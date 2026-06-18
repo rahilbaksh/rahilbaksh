@@ -1,19 +1,20 @@
 <div align="center">
 
 <!-- HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=220&section=header&text=Rahil%20Baksh&fontSize=42&fontColor=e6edf3&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI%20Engineer&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=230&section=header&text=Rahil%20Baksh&fontSize=44&fontColor=e6edf3&fontAlignY=35&desc=AI%20Engineer%20%7C%20Full%20Stack%20Developer&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%" />
 
 <!-- TYPING SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=700&height=70&lines=Building+production+AI+systems+%26+scalable+web+platforms;Shipping+RAG+pipelines%2C+AI+agents%2C+and+full-stack+products)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=750&height=70&lines=Building+production+RAG+pipelines+%26+AI+agents;Shipping+LLM+systems+that+ship%2C+not+just+demos;Currently+building+AI+at+HiLearn+Technology)](https://git.io/typing-svg)
 
 <br/>
 
 <!-- QUICK LINKS -->
-<a href="mailto:rahilbaksh@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=ea4335" /></a>&nbsp;
-<a href="https://linkedin.com/in/rahilbaksh"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0a66c2" /></a>&nbsp;
+<a href="mailto:rahilbaksh0786@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=ea4335" /></a>&nbsp;
+<a href="https://linkedin.com/in/rahil-baksh"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0a66c2" /></a>&nbsp;
 <a href="https://github.com/rahilbaksh"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=e6edf3" /></a>&nbsp;
+<a href="https://leetcode.com/rahilbaksh"><img src="https://img.shields.io/badge/LeetCode-0d1117?style=for-the-badge&logo=leetcode&logoColor=ffa116" /></a>
 
-<br/>
+<br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=rahilbaksh&style=for-the-badge&color=161b22&label=PROFILE+VIEWS" />
 
@@ -21,22 +22,79 @@
 
 <br/>
 
-## `> whoami`
+## `> who am i`
 
 ```yaml
 name: Rahil Baksh
-role: Full Stack Developer & AI Engineer
-education: B.Tech CSE (Data Science)
+role: AI/ML Engineer Intern & Full Stack Developer
+education: B.Tech CSE (Data Science) — Dr. APJ Abdul Kalam Technical University
+cgpa: 8.0/10
 location: India
-current_focus: Production AI Systems | LLM Applications | Scalable Architectures
+current_focus: Production RAG Systems | LLM Applications | Agentic AI
 
-experience:
-  - AI/ML Engineer Intern @ HiLearn Technology
-  - Building enterprise-grade RAG systems & agentic AI platforms
-  - Developing production MERN stack applications with real-time features
-
-approach: "I don't build demos — I ship products."
+philosophy: "I don't build demos — I ship products."
 ```
+
+<br/>
+
+## By The Numbers
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+### 94%
+Semantic Search Precision
+
+</td>
+<td align="center" width="25%">
+
+### 89%
+Sentiment Model Accuracy
+
+</td>
+<td align="center" width="25%">
+
+### 250+
+Pages Indexed in RAG
+
+</td>
+<td align="center" width="25%">
+
+### 70%
+Faster Doc Retrieval
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+## Experience
+
+<table>
+<tr>
+<td>
+
+### 🚀 AI/ML Engineer Intern — HiLearn Technology
+**Feb 2026 – Present** &nbsp;|&nbsp; Ahmedabad, India
+
+- Deployed a production **RAG microservice** (FastAPI + ChromaDB + SentenceTransformers + Groq `llama-3.3-70b`) powering semantic search, LLM Q&A, summarization, and auto quiz generation — integrated into a Node.js/React LMS via REST APIs
+- Built **Alexi**, an agentic AI children's learning system using GPT-4o-mini and Flask — engineered face recognition attendance (dlib) and NLP-based multimodal mood detection to personalize LLM responses in real time
+- Integrated **YouTube Data API v3** and **Wikipedia Commons** for dynamic media fetching, eliminating hallucinated LLM URLs — added **Twilio WhatsApp API** for automated parent notifications
+- Shipped REST APIs with **CI/CD via GitHub Actions**, applied prompt engineering across all system prompts, and collaborated cross-functionally using Git branching workflows
+
+<br/>
+
+`FastAPI` `ChromaDB` `Groq API` `GPT-4o-mini` `Flask` `dlib` `React` `Node.js` `MongoDB` `GitHub Actions` `Twilio`
+
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -47,7 +105,7 @@ approach: "I don't build demos — I ship products."
 <td width="50%" valign="top">
 
 ### AI & Intelligent Systems
-Production RAG pipelines with semantic search precision. Agentic AI workflows that reason and act. LLM-powered applications with multimodal capabilities. Systems designed for latency, accuracy, and scale.
+Production RAG pipelines with high semantic search precision. Agentic AI workflows that reason and act. LLM-powered applications with multimodal capabilities, designed for latency, accuracy, and scale.
 
 </td>
 <td width="50%" valign="top">
@@ -81,14 +139,14 @@ End-to-end web applications with authentication, real-time features, and payment
 ---
 
 ### SkillBridge Marketplace
-> Production-ready services marketplace
+> Production-ready micro-freelance marketplace
 
-- Real-time communication system
+- Real-time bidding & messaging via Socket.io
 - Role-based authentication & access control
-- Integrated payment processing
+- Razorpay escrow payment integration
 - Full dashboard analytics
 
-`React` `Node.js` `Express` `MongoDB` `Socket.io`
+`React` `Node.js` `Express` `MongoDB` `Socket.io` `Razorpay`
 
 </td>
 <td width="50%" valign="top">
@@ -96,24 +154,24 @@ End-to-end web applications with authentication, real-time features, and payment
 ### Alexi AI — Intelligent Learning Assistant
 > Agentic AI platform for personalized education
 
-- Face recognition-based attendance tracking
+- Face recognition-based attendance tracking (dlib)
 - Mood-aware AI interactions & adaptive responses
-- Personalized learning path generation
-- Multi-agent orchestration
+- Dynamic YouTube/Wikipedia media fetching
+- WhatsApp parent notifications via Twilio
 
-`Python` `FastAPI` `LangChain` `React` `Computer Vision`
+`Python` `Flask` `GPT-4o-mini` `dlib` `React` `Computer Vision`
 
 ---
 
 ### Multimodal Sentiment Analysis Engine
 > Deep learning pipeline for multimodal emotion detection
 
-- Fine-tuned BERT for text sentiment classification
-- Audio emotion recognition pipeline
+- Fine-tuned BERT — **89% accuracy** on emotion classification
+- PyTorch CNN for audio emotion recognition (RAVDESS)
 - Real-time inference & analysis dashboard
 - Cross-modal fusion architecture
 
-`PyTorch` `BERT` `Hugging Face` `Python` `FastAPI`
+`PyTorch` `BERT` `Hugging Face` `Python` `Streamlit`
 
 </td>
 </tr>
@@ -132,7 +190,7 @@ End-to-end web applications with authentication, real-time features, and payment
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark" />&nbsp;
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
 <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000" />
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/RAG_Pipelines-0d1117?style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/AI_Agents-0d1117?style=for-the-badge&logoColor=white" />
 
@@ -167,14 +225,15 @@ End-to-end web applications with authentication, real-time features, and payment
     └── Performance engineering & optimization
 ```
 
-## Certifications & Learning
+<br/>
+
+## Certifications
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Deep_Learning_Specialization-0056D2?style=for-the-badge&logo=coursera&logoColor=white" />&nbsp;
-<img src="https://img.shields.io/badge/Machine_Learning-0056D2?style=for-the-badge&logo=coursera&logoColor=white" />&nbsp;
-<img src="https://img.shields.io/badge/Full_Stack_Development-FF6154?style=for-the-badge&logoColor=white" />&nbsp;
-<img src="https://img.shields.io/badge/LangChain_for_LLM_Apps-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/IBM-Deep_Learning_Fundamentals-052FAD?style=for-the-badge&logo=ibm&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/Google_Cloud-Intro_to_Generative_AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/Infosys_Springboard-Python_Programming-007CC3?style=for-the-badge&logoColor=white" />
 
 </div>
 
@@ -207,8 +266,8 @@ I build things that work at scale. If you're working on something ambitious — 
 
 <br/><br/>
 
-<a href="mailto:rahilbaksh@gmail.com"><img src="https://img.shields.io/badge/rahilbaksh0786@gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=ea4335" /></a>&nbsp;
-<a href="https://linkedin.com/in/rahilbaksh"><img src="https://img.shields.io/badge/rahilbaksh-0d1117?style=for-the-badge&logo=linkedin&logoColor=0a66c2" /></a>&nbsp;
+<a href="mailto:rahilbaksh0786@gmail.com"><img src="https://img.shields.io/badge/rahilbaksh0786@gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=ea4335" /></a>&nbsp;
+<a href="https://linkedin.com/in/rahil-baksh"><img src="https://img.shields.io/badge/rahil--baksh-0d1117?style=for-the-badge&logo=linkedin&logoColor=0a66c2" /></a>&nbsp;
 <a href="https://github.com/rahilbaksh"><img src="https://img.shields.io/badge/rahilbaksh-0d1117?style=for-the-badge&logo=github&logoColor=e6edf3" /></a>
 
 </div>
