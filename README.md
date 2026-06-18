@@ -167,19 +167,6 @@ End-to-end web applications with authentication, real-time features, and payment
     └── Performance engineering & optimization
 ```
 
-<br/>
-
-## Learning Roadmap
-
-| Quarter | Focus Area | Objective |
-|---|---|---|
-| **Q3 2026** | Advanced Agent Architectures | Multi-agent systems, tool use, planning |
-| **Q4 2026** | MLOps & Model Deployment | Production ML pipelines, model serving |
-| **Q1 2027** | Distributed Systems | Scalability patterns, system design |
-| **Q2 2027** | Cloud-Native AI | Kubernetes, serverless ML, edge inference |
-
-<br/>
-
 ## Certifications & Learning
 
 <div align="center">
@@ -220,7 +207,7 @@ I build things that work at scale. If you're working on something ambitious — 
 
 <br/><br/>
 
-<a href="mailto:rahilbaksh@gmail.com"><img src="https://img.shields.io/badge/rahilbaksh@gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=ea4335" /></a>&nbsp;
+<a href="mailto:rahilbaksh@gmail.com"><img src="https://img.shields.io/badge/rahilbaksh0786@gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=ea4335" /></a>&nbsp;
 <a href="https://linkedin.com/in/rahilbaksh"><img src="https://img.shields.io/badge/rahilbaksh-0d1117?style=for-the-badge&logo=linkedin&logoColor=0a66c2" /></a>&nbsp;
 <a href="https://github.com/rahilbaksh"><img src="https://img.shields.io/badge/rahilbaksh-0d1117?style=for-the-badge&logo=github&logoColor=e6edf3" /></a>
 
